@@ -17,7 +17,7 @@ RUN gradle clean build
 # actual container
 
 FROM openjdk:latest
-ENV JAR_NAME=test-config-0.0.1-SNAPSHOT.jar
+ENV JAR_NAME=psd-config-service-0.0.1-SNAPSHOT.jar
 ENV APP_HOME=/usr/app/
 WORKDIR $APP_HOME
 COPY --from=BUILD $APP_HOME/build/libs/$JAR_NAME .

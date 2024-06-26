@@ -1,1 +1,1 @@
-rootProject.name = "test-config"
+rootProject.name = "psd-config-service"
