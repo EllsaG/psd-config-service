@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/EllsaG/psd-config-service
+          uri: https://github.com/EllsaG/test-config-ymls
           clone-on-start: true
           default-label: master
           search-paths:
