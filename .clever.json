@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "app_id": "app_8b2a441b-b715-4698-9cd5-a9305dcc7ab2",
-      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
-      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_8b2a441b-b715-4698-9cd5-a9305dcc7ab2.git",
-      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_8b2a441b-b715-4698-9cd5-a9305dcc7ab2.git",
+      "app_id": "app_43b27924-768c-4500-a4cf-81b16707471a",
+      "org_id": "user_2be651ce-09a9-4dd0-aa0d-c05f6038d5db",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_43b27924-768c-4500-a4cf-81b16707471a.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_43b27924-768c-4500-a4cf-81b16707471a.git",
       "name": "psd-config-service",
       "alias": "psd-config-service"
     }
