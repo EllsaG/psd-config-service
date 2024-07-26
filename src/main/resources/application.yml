@@ -13,7 +13,3 @@ spring:
           default-label: master
           search-paths:
             - '{application}'
-  security:
-    user:
-      password: admin
-      name: user
